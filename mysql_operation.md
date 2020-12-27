@@ -4,7 +4,7 @@
 
 查询当有那些库：`show databases;`
 
-创建数据库：` alter database db_name;`
+创建数据库：` create database db_name;`
 
 删除数据库：` drop database db_name;` 
 
