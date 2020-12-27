@@ -2,13 +2,15 @@
 
 ## 1. 创建与管理
 
-查询当有那些库：`create databases;`
+查询当有那些库：`show databases;`
 
 创建数据库：` alter database db_name;`
 
 删除数据库：` drop database db_name;` 
 
 ## 2. 表的操作
+
+查询当前库有那些表：`show table`
 
 创建表：` create table`
 
